@@ -20,7 +20,7 @@ title                    : "박상기"
 title_separator          : "|"
 subtitle                 : "small positive action"
 name                     : "박상기"
-description              : "반갑습니다."
+description              : "박상기의 블로그 입니다."
 url                      : "https://Sanggi123.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박상기"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "박상기의 블로그입니다"
+  bio              : "반갑습니다."
   location         : "South Korea"
   email            :
   links:
