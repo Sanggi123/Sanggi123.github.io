@@ -1,5 +1,5 @@
 ---
-title: "부스트캠프 AI Tech 6기 1주차"
+title: "부스트캠프 AI Tech 6기 Level 1"
 layout: archive
 permalink: categories/Level1
 author_profile: true
